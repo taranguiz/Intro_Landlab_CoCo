@@ -1,12 +1,15 @@
 # Intro_Landlab_CoCo
 
-This is a introductory lesson of Landlab prepared for CoCo: Code to Communicate 2022.
-Esta es una leccion introductoria de Landlab preparada para CoCo: Code to Communicate 2022.
+(EN) This is a introductory lesson of Landlab prepared for CoCo: Code to Communicate 2022.
+
+(ES) Esta es una leccion introductoria de Landlab preparada para CoCo: Code to Communicate 2022.
 
 ### Background
 
-There is two papers about Landlab that you can check out to have a better understanding of this python package.
-Hay dos papers sobre Landlab que pueden chequear para tener un mejor entendimiento de este paquete de python.
+(EN) There is two papers about Landlab that you can check out to have a better understanding of this python package.
+
+(ES) Hay dos papers sobre Landlab que pueden chequear para tener un mejor entendimiento de este paquete de python.
+
 - [Hobley et al., 2017](https://www.earth-surf-dynam.net/5/21/2017/esurf-5-21-2017.html)
 - [Barnhart et al., 2020](https://esurf.copernicus.org/articles/8/379/2020/)
 
@@ -18,9 +21,9 @@ Hay dos papers sobre Landlab que pueden chequear para tener un mejor entendimien
 
 ### Credits / Creditos
 
-The notebook that you find here is based on the incredible work developed by the Landlab team and you can find multiple tutotials in their [repository](http://landlab.github.io/#/).
+(EN) The notebook that you find here is based on the incredible work developed by the Landlab team and you can find multiple tutotials in their [repository](http://landlab.github.io/#/).
 
-El cuaderno que encuentran aca esta basado en el incredible trabajo desarrollado por el equipo Landlab, y pueden encontrar muchos tutoriales en su [repositorio](http://landlab.github.io/#/).
+(ES) El cuaderno que encuentran aca esta basado en el incredible trabajo desarrollado por el equipo Landlab, y pueden encontrar muchos tutoriales en su [repositorio](http://landlab.github.io/#/).
 
-Hey! And you know what? We have one of the Landlab core developers **Nicole Gasparini!** 
-Hey! Y sabes que? Nosotres tenemos una de las principales desarrolladoras de Landlab: **Nicole Gasparini!**
+(EN) Hey! And you know what? We have one of the Landlab core developers **Nicole Gasparini!** 
+(ES) Hey! Y sabes que? Nosotres tenemos una de las principales desarrolladoras de Landlab: **Nicole Gasparini!**

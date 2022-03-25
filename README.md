@@ -25,5 +25,6 @@
 
 (ES) El cuaderno que encuentran aca esta basado en el incredible trabajo desarrollado por el equipo Landlab, y pueden encontrar muchos tutoriales en su [repositorio](http://landlab.github.io/#/).
 
-(EN) Hey! And you know what? We have one of the Landlab core developers **Nicole Gasparini!** 
+(EN) Hey! And you know what? We have one of the Landlab core developers **Nicole Gasparini!**
+
 (ES) Hey! Y sabes que? Nosotres tenemos una de las principales desarrolladoras de Landlab: **Nicole Gasparini!**
